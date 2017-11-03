@@ -1,0 +1,5 @@
+.DS_Store
+web/var/*
+web/generated/*
+web/pub/*
+.idea

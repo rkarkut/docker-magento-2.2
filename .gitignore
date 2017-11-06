@@ -1,5 +1,5 @@
 .DS_Store
 web/var/*
 web/generated/*
-web/pub/*
+web/pub/static/*
 .idea

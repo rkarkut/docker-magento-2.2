@@ -2,4 +2,5 @@
 web/var/*
 web/generated/*
 web/pub/static/*
+web/app/code/GetResponse
 .idea
